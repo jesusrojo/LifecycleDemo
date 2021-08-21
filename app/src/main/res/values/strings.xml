@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LifecycleDemo</string>
+    <string name="main_fragment_label">Main Fragment Label</string>
+    <string name="second_fragment_label">Second Fragment Label</string>
+    <string name="third_fragment_label">Third Fragment Label</string>
+    <string name="details">DETAILS</string>
+    <string name="info">Info</string>
+</resources>

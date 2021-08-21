@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText" >
+
+    <item android:id="@+id/menu_item_1"
+        android:title="Clear Logs"
+        android:orderInCategory="1"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_item_2"
+        android:title="Show Details DialogFragment"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_item_3"
+        android:title="Show Second Fragment (navigate)"
+        android:orderInCategory="3"
+        app:showAsAction="never" />
+
+</menu>
